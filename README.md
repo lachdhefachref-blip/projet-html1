@@ -1,7 +1,7 @@
 ![Créer une Navbar (Home – About – Work – Resume – Contact):](navbar.png)
 
 
-![Créer la section About avec texte + liste + audio](section-aboutpng)
+![Créer la section About avec texte + liste + audio](section-about.pngpng)
 
 
 ![Créer la section Work avec un tableau](section-work.png)
