@@ -20,15 +20,11 @@
 
 
 
-![exemple de simple style :](ex_style.png)
-
-
-![res :](res1.png)
+![res :](res.png)
 
 
 
 
 
 
-![res :](<res 2.png>)
 
